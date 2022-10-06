@@ -1,3 +1,3 @@
 # Guessing Game Project for Unix Workbench
-Makefile was made on Tue Oct  4 22:40:33 CDT 2022
-24
+Makefile was made on Wed Oct  5 22:17:12 CDT 2022
+Lines of code in guessinggame.sh: 24
